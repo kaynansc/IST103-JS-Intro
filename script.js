@@ -20,4 +20,5 @@ const myObject = {
 }
 
 console.log(todoList);
+console.log("My first to do is: " + todoList[0]);
 console.log("My " + myObject.name + " is " + myObject.color + ", has a " + myObject.style + " style, measures " + myObject.height + " in height and " + myObject.width + " in width.");
