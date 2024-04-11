@@ -18,3 +18,6 @@ const myObject = {
   height: '80cm',
   width: '1,20m'
 }
+
+console.log(todoList);
+console.log("My " + myObject.name + " is " + myObject.color + ", has a " + myObject.style + " style, measures " + myObject.height + " in height and " + myObject.width + " in width.");
